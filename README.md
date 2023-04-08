@@ -1,4 +1,10 @@
-# ProductApi-
 
-In this project, I developed API using Spring Boot and Hibernate. The entities involved were Product and Category.
-The relationship between product and category is one to many. I performed CRUD operations on these entities. Also while retrieving information about the product, I also displayed information about its category.
+# ProductApi
+
+ProductApi is an API developed using Spring Boot and Hibernate. The entities involved are Product and Category, with a one-to-many relationship between them. This API allows for CRUD operations to be performed on these entities. Additionally, when retrieving information about a product, information about its associated category is also displayed.
+
+## Technologies Used
+
+-   Spring Boot
+-   Hibernate
+-   MySQL
